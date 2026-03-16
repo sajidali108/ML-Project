@@ -2,7 +2,8 @@
 
 > *Where curiosity meets code, and data tells stories.*
 
-Welcome to my Machine Learning playground! This repository is a curated collection of **Jupyter Notebook-based explorations** into the fascinating world of machine learning. Whether you're diving into the fundamentals or exploring cutting-edge techniques, you'll find thoughtfully crafted notebooks that bridge theory and practice.
+Welcome to my Machine Learning playground!  
+This repository is a collection of Jupyter Notebooks where I explore different aspects of machine learning. From the basics to more advanced techniques, each notebook is designed to make concepts practical and easy to understand. My goal is to connect theory with hands-on examples, so you can see how ideas work in real applications.
 
 ---
 
